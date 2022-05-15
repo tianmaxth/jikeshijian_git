@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="bigdata_xth_hbase:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/bigdata_xth_hbase_jar</output-path>
+    <output-path>$PROJECT_DIR$/../../新建文件夹</output-path>
     <root id="archive" name="bigdata_xth_hbase.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
